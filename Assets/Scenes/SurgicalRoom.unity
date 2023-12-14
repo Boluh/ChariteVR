@@ -8006,6 +8006,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tutorial Player
       objectReference: {fileID: 0}
+    - target: {fileID: 2298838264503238131, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
+      propertyPath: sceneId
+      value: 3656269729
+      objectReference: {fileID: 0}
     - target: {fileID: 3960868284476806768, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0.295
@@ -11305,6 +11309,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3625619417816447495, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
+      propertyPath: sceneId
+      value: 2267259813
+      objectReference: {fileID: 0}
     - target: {fileID: 3893294197879345259, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.408
@@ -19646,7 +19654,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0.33333334, y: 0.43333337, z: -0.121172465, w: -1.2633003}
+  m_BoundingSphereOverride: {x: 9.07e-43, y: 0, z: 0, w: 1e-45}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
